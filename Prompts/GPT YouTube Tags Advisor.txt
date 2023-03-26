@@ -1,0 +1,16 @@
+Name: GPT YouTube Tags Advisor
+By Lexian-droid
+Available At: https://t.ly/lHIm
+Licensed under: Unlicense license
+
+Note: Please replace "[video_title]" with the name of your video and rpelace "[about_video]" with information about your video.
+
+THE PROMPT ---
+
+Can we talk about YouTube Video Tags?
+
+I'd like for you to write me some tags, please write trendy tags that relate to my video.
+My video is called "[video_title]" and it's about "[about_video]"
+
+Great! Please compile the tags like this:
+Tag1,Tag2,Tag3, and so on.
